@@ -5,6 +5,10 @@ h1 {
     border: 2.5px solid black;
 }
 
+h2 {
+    font-size: 12;
+}
+
 .main-body {
     margin: 0 75 0 75;
 }
@@ -12,6 +16,7 @@ h1 {
 .socials {
     display: flex;
     justify-content: space-between;
+    margin-top: 10px;
 }
 #socials--box {
     display: flex;
@@ -39,6 +44,7 @@ h1 {
     background: #a4c639;
     color: white;
     margin: 0;
+
 }
 
 .facebook {
